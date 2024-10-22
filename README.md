@@ -9,13 +9,18 @@
           src="/assets/profile.gif"
     >
 </p>
+<br/>
+<br/>
 
-Gosto de resolver problemas e encontrar soluções inteligentes. Desenvolver soluções que mude a vida das pessoas é meu foco. 
-Tenho 6 anos de experiência de tecnologia, atuando na área de desenvolvimento e produtos.
+## About Me
 
+I enjoy solving problems and finding smart solutions. 
+My focus is on developing solutions that change people's lives. 
+I have 6 years of experience in technology, working in development and product areas.
+<br/>
+<br/>
 
-
-
+## Statics
 
 <div>
 <a href="https://github.com/heitordeve">
@@ -23,7 +28,10 @@ Tenho 6 anos de experiência de tecnologia, atuando na área de desenvolvimento 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=heitordeve&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## Contatos:
+<br/>
+<br/>
+
+## Contact:
 
 <div>
 <a href="https://www.linkedin.com/in/heitorcarlos" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
