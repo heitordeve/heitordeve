@@ -18,7 +18,6 @@ I enjoy solving problems and finding smart solutions.
 My focus is on developing solutions that change people's lives. 
 I have 6 years of experience in technology, working in development and product areas.
 <br/>
-<br/>
 
 ## Statics
 
