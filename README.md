@@ -18,12 +18,8 @@ Tenho 6 anos de experiência de tecnologia, atuando na área de desenvolvimento 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heitorcarlos/)](https://www.linkedin.com/in/heitorcarlos/)
 
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=fagnerpsantos&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
-    />
-  </a>
-</p>
+<div>
+<a href="https://github.com/heitordeve">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?heitordeve&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?heitordeve&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
