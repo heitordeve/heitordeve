@@ -14,12 +14,17 @@ Gosto de resolver problemas e encontrar soluções inteligentes. Desenvolver sol
 Tenho 6 anos de experiência de tecnologia, atuando na área de desenvolvimento e produtos.
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/heitordeve)](https://github.com/heitordeve)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heitorcarlos/)](https://www.linkedin.com/in/heitorcarlos/)
+
 
 
 <div>
 <a href="https://github.com/heitordeve">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitordeve&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=heitordeve&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+## Contatos:
+
+<div>
+<a href="https://www.linkedin.com/in/heitorcarlos" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
