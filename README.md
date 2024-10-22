@@ -1,7 +1,12 @@
 # Seja Bem-Vindo ao meu Perfil  \0/
 
 <p>
-    <img width="470" src="/assets/profile.gif">
+    <img margin: auto;
+          width: 50%;
+          border: 3px solid green;
+          padding: 10px;
+          src="/assets/profile.gif"
+    >
 </p>
 
 Gosto de resolver problemas e encontrar soluções inteligentes. Desenvolver soluções que mude a vida das pessoas é meu foco. 
