@@ -20,6 +20,6 @@ Tenho 6 anos de experiência de tecnologia, atuando na área de desenvolvimento 
 
 <div>
 <a href="https://github.com/heitordeve">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?heitordeve&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?heitordeve&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/heitordeve&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?https://github.com/heitordeve&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
