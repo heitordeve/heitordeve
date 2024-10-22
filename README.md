@@ -1,7 +1,9 @@
 # Seja Bem-Vindo ao meu Perfil  \0/
 
+<img src="/assets/profile.gif>
+
 Gosto de resolver problemas e encontrar soluções inteligentes. Desenvolver soluções que mude a vida das pessoas é meu foco. 
-Atuo na empresa como Product Owner, entendendo as necessidades do cliente e analisando requisitos e processos para o desenvolvimento de aplicativos, plataformas web ou desktop.
+Tenho 6 anos de experiência de tecnologia, atuando na área de desenvolvimento e produtos.
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/heitordeve)](https://github.com/heitordeve)
