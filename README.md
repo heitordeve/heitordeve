@@ -3,6 +3,7 @@
 <p>
     <img margin: auto;
           width: 40%;
+          height: 50%;
           border: 3px solid green;
           padding: 10px;
           src="/assets/profile.gif"
