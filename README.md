@@ -30,8 +30,9 @@
 ## 📊 GitHub Stats
 
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitordeve&show_icons=true&theme=tokyonight&hide_rank=false&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitordeve&show_icons=true&theme=tokyonight&hide_rank=false&count_private=true&cache_bust=1"/>
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitordeve&show_icons=true&theme=tokyonight&hide_rank=false&count_private=true&cache_bust=1"/>
+ 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitordeve&layout=compact&theme=tokyonight&hide_rank=false&count_private=true&cache_bust=1"/>
 
  
 </p>
