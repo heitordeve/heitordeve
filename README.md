@@ -17,27 +17,47 @@
 
 ---
 
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_bust=1"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&count_private=true&cache_bust=1"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false&count_private=true&cache_bust=1"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+
 ## 🚀 Em que estou trabalhando
 
-- 🗓️ Sistema de Agendamentos + Prontuário Eletrônico  
-- 💙 Monitoramento de Pressão e Glicose para Gestantes via WhatsApp  
-- 🛣️ Otimização de Rotas com múltiplos destinos (.NET + OpenRouteService)  
-- 📲 App Flutter para Controle de Contas Domésticas  
-- 🧾 API Node.js + MongoDB com autenticação JWT  
+<div align="left">
 
----
+🧠 &nbsp; Aprimorando habilidades em tecnologias modernas de backend e frontend:
 
-## 📊 GitHub Stats
+- ⚙️ &nbsp; **NestJS** – Arquitetura modular, injeção de dependência e práticas avançadas de API REST/GraphQL  
+- ⚡ &nbsp; **Next.js** – SSR/SSG, Rotas, API Routes, e construção de interfaces performáticas com React  
+- 🧩 &nbsp; **.NET** – Clean Architecture, Azure Functions, Web API, SQL Server e integração com Service Bus
 
-
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitordeve&show_icons=true&theme=tokyonight&hide_rank=false&count_private=true&cache_bust=1"/>
- 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitordeve&layout=compact&theme=tokyonight&hide_rank=false&count_private=true&cache_bust=1"/>
-
- 
-</p>
-
----
+</div>
 
 ## 🛠️ Tecnologias que utilizo
 
