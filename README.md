@@ -19,29 +19,17 @@
 
 ### ⚙️ GitHub Analytics
 
-<a href="https://github.com/heitordeve">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=heitordeve&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_bust=1"/>
-</a>
-
-<a href="https://github.com/heitordeve">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitordeve&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&cache_bust=1"/>
-</a>
-
 <table>
   <tr>
     <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=heitordeve&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_bust=1"
-        alt="Github Stats"
-      />
+      <a href="https://github.com/heitordeve">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=heitordeve&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_bust=1"/>
+</a>
     </td>
     <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitordeve&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&count_private=true&cache_bust=1"
-        alt="Github Stats"
-      />
+      <a href="https://github.com/heitordeve">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitordeve&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&cache_bust=1"/>
+</a>
     </td>
   </tr>
 </table>
