@@ -33,7 +33,7 @@
 ---
 ## 🚀 Em que estou trabalhando
 
-<div align="left">
+<div align="center">
 
 🧠 &nbsp; Aprimorando habilidades em tecnologias modernas de backend e frontend:
 
