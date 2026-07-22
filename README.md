@@ -20,7 +20,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitordeve&layout=compact&langs_count=6&theme=tokyonight&hide=html,css"/>
+<div align="center">
+  <img src="metrics.svg" alt="Metrics" />
+</div
 
 </div>
 

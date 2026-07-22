@@ -1,0 +1,26 @@
+name: Metrics
+
+on:
+  schedule: [{cron: "0 0 * * *"}] # Atualiza uma vez por dia
+  workflow_dispatch: # Permite atualizar manualmente pelo site do GitHub
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ SECRETS.METRICS_TOKEN }} # (Opcional, mas recomendado para dados completos)
+          
+          # Opções para mostrar as linguagens e estatísticas
+          user: heitordeve
+          template: classic
+          base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_languages_ignored: html, css # Linguagens que quer esconder
+          plugin_languages_details: bytes-size, percentage # Mostra em porcentagem
+          plugin_languages_limit: 6 # Mostra as top 6
